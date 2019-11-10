@@ -3,7 +3,7 @@ const myBoxes = document.getElementsByClassName('block');
 
 //The Functionality
 function loopThrough() {
-
+console.log(this.textContent.length)
 };
 
 //The Event Listener
