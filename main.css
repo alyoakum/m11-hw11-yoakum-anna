@@ -10,7 +10,10 @@ li {
 ul li p {
   padding: 15%;
   margin: 0;
+  background-color: #fff;
+  transition: background-color 1000ms;
 }
-.red {
-  background-color: red;
+.purple {
+  background-color: purple;
+  transition: background-color 1000ms;
 }
